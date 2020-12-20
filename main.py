@@ -50,7 +50,7 @@ if __name__ == '__main__':
 
     while tries > 0:
         print("Enter your guess between 1-20")
-        print("Geia sou")
+        print("Check this")
         guess = input()
         print(isEqual(guess,value))
         if isEqual(guess,value):
